@@ -50,3 +50,5 @@ Contributions are very welcome. Always run the tests before committing using:
 $ ./2048 test
 All 13 tests executed successfully
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/elliota43/2048.c)](https://repl.it/github/elliota43/2048.c)
